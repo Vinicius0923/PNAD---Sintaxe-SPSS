@@ -1,5 +1,3 @@
-## PNADC – Sintaxe-SPSS
-
 ## 📊 PNADC – Microdados
 
 Este repositório contém os **microdados da PNAD Contínua (PNADC)** referentes ao ano de 2025, organizados em formato **SPSS Syntax (`GET DATA`)** para leitura dos arquivos de texto fixos disponibilizados pelo IBGE.
