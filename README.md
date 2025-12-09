@@ -1,9 +1,9 @@
-## 📊 PNADC – Microdados
+### 📊 PNADC – Microdados
 
 Este repositório contém os **microdados da PNAD Contínua (PNADC)** referentes ao ano de 2025, organizados em formato **SPSS Syntax (`GET DATA`)** para leitura dos arquivos de texto fixos disponibilizados pelo IBGE.
 ---
 
-## 📂 Estrutura dos Arquivos
+### 📂 Estrutura dos Arquivos
 
 - **Arquivo de dados**: `PNADC_022025.TXT`  
   Contém os microdados em formato texto, com posições fixas.
@@ -12,7 +12,7 @@ Este repositório contém os **microdados da PNAD Contínua (PNADC)** referentes
   Script SPSS para importar os microdados, definindo variáveis, posições e rótulos.
 ---
 
-## ⚙️ Como usar
+### ⚙️ Como usar
 
 1. Abra o **SPSS** ou outro software compatível.
 2. Carregue o arquivo `GET DATA.txt`.
@@ -20,7 +20,7 @@ Este repositório contém os **microdados da PNAD Contínua (PNADC)** referentes
 4. Execute o script para importar os microdados com todas as variáveis e rótulos.
 ---
 
-## 🧾 Principais Variáveis
+### 🧾 Principais Variáveis
 
 | Variável | Descrição |
 |----------|------------|
@@ -39,13 +39,13 @@ Este repositório contém os **microdados da PNAD Contínua (PNADC)** referentes
 > O arquivo contém centenas de variáveis adicionais, todas já rotuladas no script.
 ---
 
-## 📑 Documentação
+### 📑 Documentação
 
 - As variáveis seguem a **metodologia oficial da PNAD Contínua**.  
 - Para detalhes sobre questionário, conceitos e classificações, consulte o [site do IBGE](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pnad-continua.html).
 ---
 
-## 🚀 Objetivo
+### 🚀 Objetivo
 
 Este material facilita a **importação e análise dos microdados da PNADC** em softwares estatísticos, permitindo estudos sobre:
 
